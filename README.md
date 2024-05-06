@@ -28,9 +28,6 @@ For example, if the agent is in state S and takes the "R" action, then there is 
 ### Rewards
 The agent receives a reward of +1 for reaching the goal state (G). The agent receives a reward of 0 for all other states.
 
-### Graphical Representation
-![](1.png)
-
 ## Q LEARNING ALGORITHM
 1. Initialize the Q-values arbitrarily for all state-action pairs.
 2. Repeat for each episode:
